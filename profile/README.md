@@ -16,15 +16,14 @@
 
 <!-- College Logo (Centered) -->
 <p align="center">
-  <img src="images/vvit-logo.png" alt="VVIT Logo" width="220">
+  <img src="images/VVIT Logo.png" alt="VVIT Logo" width="220">
 </p>
 
 <br>
 
 <div align="center">
 
-# DEPARTMENT OF COMPUTER SCIENCE & ENGINEERING –  
-# ARTIFICIAL INTELLIGENCE & MACHINE LEARNING (CSM)
+# DEPARTMENT OF COMPUTER SCIENCE & ENGINEERING – ARTIFICIAL INTELLIGENCE & MACHINE LEARNING (CSM)
 
 ### VASIREDDY VENKATADRI INSTITUTE OF TECHNOLOGY
 
