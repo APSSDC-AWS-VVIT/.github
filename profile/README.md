@@ -1,1 +1,41 @@
-AWS Cloud & DevOps Internship Project Team under APSSDC focused on building scalable cloud-based solutions and real-world applications.
+# Smart Pilgrim Companion: Cloud-Based Spiritual Travel & Temple Assistance Platform Using AWS
+
+---
+
+## Team Members
+
+| S. No. | Roll Number | Team Member Name | Gender |
+|:-----:|:-----------:|------------------|:------:|
+| 1 | 23BQ1A4201 | ADHIMULAM BHARGAV SAI VISWANATH | M |
+| 2 | 23BQ1A4218 | BEZAWADA MEGHANA | F |
+| 3 | 23BQ1A4222 | BODEPUDI NAGA SOUMYA | F |
+| 4 | 23BQ1A4238 | DERANGULA VISHNUVARDHAN | M |
+| 5 | 23BQ1A4269 | JUJJURI LAKSHMI SOWMYA | F |
+
+<br>
+
+<!-- College Logo (Centered) -->
+<p align="center">
+  <img src="images/vvit-logo.png" alt="VVIT Logo" width="220">
+</p>
+
+<br>
+
+<div align="center">
+
+# DEPARTMENT OF COMPUTER SCIENCE & ENGINEERING –  
+# ARTIFICIAL INTELLIGENCE & MACHINE LEARNING (CSM)
+
+### VASIREDDY VENKATADRI INSTITUTE OF TECHNOLOGY
+
+*(Approved by AICTE and Permanently Affiliated to JNTUK)*  
+
+**Accredited by NBA and NAAC with 'A' Grade**
+
+📍 Nambur (V), Pedakakani (M), Guntur – 522 508  
+
+**JULY 2026**
+
+</div>
+
+---
