@@ -22,6 +22,8 @@
 
 <br>
 
+### Batch 1: Serial No: 65
+
 ## ☁️ Developed Under
 
 **APSSDC AWS Cloud & DevOps Internship Program**
@@ -32,7 +34,6 @@
 - **Mr. Juttuka Lovababu**, APSSDC
 
 ---
-
 
 <!-- College Logo (Centered) -->
 <p align="center">
