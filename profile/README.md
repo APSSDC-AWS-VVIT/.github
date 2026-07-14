@@ -31,6 +31,9 @@
 - **Mrs. Bethala Sumana**, APSSDC
 - **Mr. Juttuka Lovababu**, APSSDC
 
+---
+
+
 <!-- College Logo (Centered) -->
 <p align="center">
   <img src="images/VVIT Logo.png" alt="VVIT Logo" width="220">
