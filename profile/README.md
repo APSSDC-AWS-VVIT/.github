@@ -53,7 +53,3 @@ Cloud-Based Spiritual Travel & Temple Assistance Platform developed using:
 - IAM
 - CloudWatch
 - Nginx Reverse Proxy
-
----
-
-### July 2026
