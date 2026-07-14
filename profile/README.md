@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="banner.png" alt="APSSDC AWS Internship Banner" width="100%">
+  <img src="images/banner.png" alt="APSSDC AWS Internship Banner" width="100%">
 </p>
 
 <p align="center">
-  <img src="SmartPiligrimCompanionLogo.png" alt="Smart Pilgrim Companion Logo" width="170">
+  <img src="images/SmartPiligrimCompanionLogo.png" alt="Smart Pilgrim Companion Logo" width="170">
 </p>
 
 # Smart Pilgrim Companion: Cloud-Based Spiritual Travel & Temple Assistance Platform Using AWS
