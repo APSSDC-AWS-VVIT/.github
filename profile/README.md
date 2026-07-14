@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="images/SmartPiligrimCompanionLogo.png" alt="Smart Pilgrim Companion Logo" width="170">
+  <img src="images/SmartPiligrimCompanionLogo.png" alt="Smart Pilgrim Companion Logo" width="100%">
 </p>
 
 # Smart Pilgrim Companion: Cloud-Based Spiritual Travel & Temple Assistance Platform Using AWS
