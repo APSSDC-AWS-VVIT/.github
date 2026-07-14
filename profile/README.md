@@ -41,7 +41,7 @@
 
 ## 🚀 Featured Repository
 
-➡️ **Smart Pilgrim Companion[https://github.com/APSSDC-AWS-VVIT/smart-pilgrim-companion]**
+➡️ **[Smart Pilgrim Companion](https://github.com/APSSDC-AWS-VVIT/smart-pilgrim-companion)**
 
 Cloud-Based Spiritual Travel & Temple Assistance Platform developed using:
 
